@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title> 48 HCOS ED </title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 	<link rel="stylesheet" href="../stylesheet.css">
 	<a align=left class="btnContainer"href="../index.html">Home</a>
 </head>	
@@ -18,8 +19,8 @@
 <a class="btnContainer"href="#expand5">Genesis Access</a>
 <a class="btnContainer"href="#expand6">PRAP</a>
 <section id="expand1">
-	<object data="articles/How to get IAccess.text";
-				  width="500"; height="500"></object>
+	<div id="IAccess";
+		</div>
 	</section>
 <section id="expand2">
 	<p>
@@ -41,5 +42,6 @@
 	<p>
 		Test: Add Ref
 	</p></section>
+<script>$("#IAccess").load("articles/How to get IAccess.txt")</script>
 </body>
 </html>
