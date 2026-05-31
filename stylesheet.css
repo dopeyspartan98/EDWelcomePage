@@ -1,4 +1,12 @@
-
+h1 {
+	font-family: "Black Ops One", system-ui;
+	font-weight: 400;
+	font-style: normal;
+.black-ops-one-regular {
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 .Intro {
 	text-align: center; 
 	margin-left: auto; 
