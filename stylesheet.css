@@ -48,8 +48,7 @@ h1 {
 	text-transform: uppercase;
 }
 .btnInstr {
-	color: red;
-	background-color: black;
+	color: #022859;
 }
 .btnContainer:hover {
 	background-color: #A94A0E; 
