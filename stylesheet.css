@@ -12,6 +12,7 @@ h1 {
   font-style: normal;
 }
 .smImg {
+	display: inline;
 	height: 568px;
 	width: 480px;
 }
