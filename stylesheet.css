@@ -11,6 +11,10 @@ h1 {
   font-weight: 400;
   font-style: normal;
 }
+.smImg {
+	height: 480px;
+	width: 568px;
+}
 .Intro {
 	text-align: center; 
 	margin-left: auto; 
