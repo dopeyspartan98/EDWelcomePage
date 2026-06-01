@@ -1,4 +1,6 @@
 How to get IAccess (Tap Access)<br>
-1. Fill out the IRRMSS_EHRApplication found at (site)(link). Make sure to ask questions if you need it and MAKE SURE TO CHECK THE IACCESS BOX.<br>
-2. After the form is signed like it’s supposed to be, submit the form in a ticket at (site). Make sure to add all relevant information.<br> 
-3. Give it a few business days to get processed, then go to Systems and tell them that you put in a request for IAccess.<br>
+<ol>
+  <li>Fill out the IRRMSS_EHRApplication found at (site)(link). Make sure to ask questions if you need it and MAKE SURE TO CHECK THE IACCESS BOX.</li><br>
+  <li>After the form is signed like it’s supposed to be, submit the form in a ticket at (site). Make sure to add all relevant information.</li><br> 
+  <li>Give it a few business days to get processed, then go to Systems and tell them that you put in a request for IAccess.</li><br>
+<ol>
