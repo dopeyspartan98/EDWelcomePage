@@ -49,6 +49,7 @@ h1 {
 }
 .btnInstr {
 	color: #022859;
+	padding: 15px;
 }
 .btnContainer:hover {
 	background-color: #A94A0E; 
