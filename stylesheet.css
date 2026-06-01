@@ -21,21 +21,18 @@ h1 {
 	margin-left: auto; 
 	margin-right: auto;
 	margin-top: 20px;
-	padding: 10px 10px 10px 10px;
-	font-family: Arial; 
-	background-color: black; 
-	color: red;
+	padding: 50px 50px 50px 50px;
+	font-family: Arial;  
+	color: #022859;
 	display: table;
 }
 .imageContainer {
 	width: 80%; 
 	max-width: 300px; 
 	height: auto;
-	/*
 	border-style: solid;
 	border-width: 5px;
-	border-color: red;
-	*/
+	border-color: #F29C0C;
 }
 .btnContainer {
 	background-color: #F29C0C; 
