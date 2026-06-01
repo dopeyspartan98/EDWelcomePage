@@ -51,6 +51,10 @@ h1 {
 	color: red;
 	cursor: pointer;
 }
+.bigImg {
+	float: left;
+	display: inline;
+}
 /*Column Grid set*/
 .topicContainer {
 	float: left; 
