@@ -38,6 +38,10 @@ h1 {
 	padding: 2.5px 15px 2.5px 15px;
 	border-radius: 20px 20px 20px 20px;
 }
+.btnInstr {
+	color: red;
+	background-color: black;
+}
 .btnContainer:hover {
 	background-color: white; 
 	color: red;
