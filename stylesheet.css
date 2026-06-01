@@ -12,8 +12,8 @@ h1 {
   font-style: normal;
 }
 .smImg {
-	height: 480px;
-	width: 568px;
+	height: 100%;
+	width: 100%;
 }
 .Intro {
 	text-align: center; 
