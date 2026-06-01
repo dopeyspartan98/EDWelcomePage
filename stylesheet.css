@@ -31,9 +31,11 @@ h1 {
 	width: 80%; 
 	max-width: 300px; 
 	height: auto;
+	/*
 	border-style: solid;
 	border-width: 5px;
 	border-color: red;
+	*/
 }
 .btnContainer {
 	background-color: #F29C0C; 
@@ -50,8 +52,8 @@ h1 {
 	background-color: black;
 }
 .btnContainer:hover {
-	background-color: white; 
-	color: red;
+	background-color: #A94A0E; 
+	color: #022859;
 	cursor: pointer;
 }
 .bigImg {
