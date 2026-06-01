@@ -36,12 +36,14 @@ h1 {
 	border-color: red;
 }
 .btnContainer {
-	background-color: black; 
-	color: red;
+	background-color: #F29C0C; 
+	color: #022859;
 	cursor: pointer;
 	text-decoration: none;
-	padding: 2.5px 15px 2.5px 15px;
+	padding: 5px 20px 5px 20px;
 	border-radius: 20px 20px 20px 20px;
+	font-weight: bold;
+	text-transform: uppercase;
 }
 .btnInstr {
 	color: red;
