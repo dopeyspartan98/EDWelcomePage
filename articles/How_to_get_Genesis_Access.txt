@@ -1,6 +1,6 @@
 How to get Genesis Access
 <ol>
   <li>Put instructions here
-<a href="https://github.com/dopeyspartan98/EDWelcomePage/blob/43637cff07ab3ebe0cacf1f6b90c420b5a2ebe36/assets/DAF_Form_4394.pdf">DAF Form 4394></a></li>
+<a href="../assets/DAF_Form_4394">DAF Form 4394</a></li>
 </ol>
 
