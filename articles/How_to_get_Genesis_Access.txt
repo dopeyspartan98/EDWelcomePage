@@ -1,5 +1,6 @@
 How to get Genesis Access
 <ol>
-  <li>Put instructions here<iframe src="../assets/DAF_Form_4394.pdf" width="20%" height="100px"></iframe></li>
+  <li>Put instructions here
+<a href="https://github.com/dopeyspartan98/EDWelcomePage/blob/43637cff07ab3ebe0cacf1f6b90c420b5a2ebe36/assets/DAF_Form_4394.pdf">DAF Form 4394></a></li>
 </ol>
 
