@@ -107,7 +107,10 @@ h1 {
 #expand6:target {
 	display: block;
 }
-#expand7:target{
+#expand7 {
+	display: none;
+}
+#expand7:target {
 	display: block;
 }
 
