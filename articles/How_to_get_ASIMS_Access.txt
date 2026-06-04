@@ -1,5 +1,7 @@
 How to get ASIMS Access
 <ol>
-  <li> Go to <a href="https://asims.health.mil/webapp/Login.aspx" target="_blank">ASIMS</a> and fill out the request form with your information and your supervisors information (if you have not been assigned a supervisor yet or don't know who it is, put the NCOIC's information in).</li><br>
+  <li> Go to <a href="https://asims.health.mil/webapp/Login.aspx" target="_blank">ASIMS</a> and fill out the request form with your 
+information and your supervisors information 
+(if you have not been assigned a supervisor yet or don't know who it is, put the NCOIC's information in).</li><br>
   <li> Put the reasons for needing ASIMS access in as "Quarters, PRAP notifications, Immunizations status."</li><br>
 </ol>
