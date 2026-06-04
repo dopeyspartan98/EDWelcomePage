@@ -1,0 +1,25 @@
+<p> "In the Events Log, there are certain things that are recorded based on the events
+     that happen throughout a certain shift. Each of the descriptions below describe what to
+     do and where to put certain information. A current form of the events log is always kept on 
+     the Teams channel under "Shared" so anyone who has access to the channel can modify it." </p>
+     <ol>
+       <li> Roster - This area should be filled out with the Day and Night shift personnel working to include the 4A's 
+            and the 4N's pulling shifts at RAF Mildenhall. (Insert asset)</li>
+       <li> Patient Statistics - This area is filled with particular statistics over a 24 hour period (two shifts). To get the relevent information,
+            you may have to pull the "Discern Report" from Genesis. (Insert asset)</li>
+       <li> Reportable Events - This area is for any changes that effect the ED directly or indirectly. It is also used for reminders,
+            changes, important base events, or anything else that the Shift Lead deems important enough to put in. (Insert asset)</li>
+       <li> PRP - This section is used for tracking the specific PRP/AUoF patients that are seen in the 24 hour period. This allows us to recall 
+            a specific patient for record keeping purposes. (Insert asset)</li>
+       <li> Admissions - This section tracks any admissions that go to a different unit in the RAF Lakenheath Hospital. This section does NOT include
+            transfers. (Insert asset)</li>
+       <li> Transfers - This section tracks any transfers that are taken to an outside facility, whether they are transferred by the RAF Lakenheath ambulance 
+            or the NHS system it is recorded here. (Insert asset)</li>
+       <li> Flightline Response/IFE/GRE - This tracks our activity on the flightline in response to incidents on the flightline to include 
+            In-Flight Emergencies or Ground Emergencies. (Insert asset)</li>
+       <li> FLY - This tracks the patients we have in a 24 hour period that have a FLY classification. (Insert asset)</li>
+       <li> Matrices Completed - This section tracks if we had to complete any Notification Matrices on the transfer of Active Duty Members out of the
+            hospital.
+       <li> Daily Checks - This section is a checklist of items that need to be function checked and signed off during the shift. It is seperated by 
+            day and night checks. (Insert asset)</li>
+       <li> Room Checks - This section is used to assign responsibility of the Room to a specific Technician.(Insert asset)</li>
