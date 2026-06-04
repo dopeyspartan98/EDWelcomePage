@@ -18,6 +18,9 @@
        <li> Flightline Response/IFE/GRE - This tracks our activity on the flightline in response to incidents on the flightline to include 
             In-Flight Emergencies or Ground Emergencies. (Insert asset)</li>
        <li> FLY - This tracks the patients we have in a 24 hour period that have a FLY classification. (Insert asset)</li>
+       <li> Universal Protocol & Informed Consent - This section tracks any procedures that have required the signing of consent forms in the ED. Sometimes 
+            the forms may be required by a different unit BEFORE the patients move, but this instance should be recorded as well as the forms were still
+            signed IN the ED.(insert asset)</li>
        <li> Matrices Completed - This section tracks if we had to complete any Notification Matrices on the transfer of Active Duty Members out of the
             hospital.
        <li> Daily Checks - This section is a checklist of items that need to be function checked and signed off during the shift. It is seperated by 
