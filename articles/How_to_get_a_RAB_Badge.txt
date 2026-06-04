@@ -1,7 +1,7 @@
 How to get a RAB Badge
 <ol>
   <li>Complete the 48th Security Forces Squadron Escort Training Slides by reviewing them. (Actually read them. They're important.) <iframe src="https://1drv.ms/p/c/210fa5f3f8a9ea72/IQTiRE8Zbb7_Q4Qq3rgQ-sCsARS7Y5UJnPG5A0FiM3NkMTg?wdAr=1.3333333333333333" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></li><br>
-  <li>Coordinate with the assigned Security Manager to begin filling out the AF Form 2586 (need form). The Security Managers tend to change often. Ask somebody more senior on location for who it currently is.</li>
+  <li>Coordinate with the assigned Security Manager to begin filling out the <a href="../assets/AF_2586.pdf">AF Form 2586</a>. The Security Managers tend to change often. Ask somebody more senior on location for who it currently is.</li>
   <li>Once your portion of the form is complete, the Security Manger will route the form for the necessary approvals. They will send it first to the Munitions Security Manager at 48muns.securitymanager.1@us.af.mil, and then to the RAB Organization Box at 48sfs.s5.rab@us.af.mil.</li>
   <li>After the form is processed (you may have to follow up) you can schedule an appointment to be issued the RAB badge.</li>
 <li>After the aquisition of the RAB Badge, the RAB office will return the AF form 2586 back to the Security Manager for record keeping.</li>
