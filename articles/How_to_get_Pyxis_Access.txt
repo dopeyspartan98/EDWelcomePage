@@ -2,5 +2,5 @@ How to get Pyxis Access
 <ol>
  <li>Complete the Medication Administration CBT on Relias</li><br>
  <li>Schedule a Hands-On class in Relias (or with Maj. Merkel) to receive the paperwork required.</li><br>
- <li>Get the signatures required for the paperwork and send it to In-Patient Pharmacy at usaf.lakenheath.48-mdg.mbx.pharmacy@health.mil along with the<a src="../assets/Pyxis_Access_Request_form.pdf>Pyxis Access Request Form.</a></li><br>
+ <li>Get the signatures required for the paperwork and send it to In-Patient Pharmacy at usaf.lakenheath.48-mdg.mbx.pharmacy@health.mil along with the <a href="../assets/Pyxis_Access_Request_form.pdf>Pyxis Access Request Form.</a></li><br>
 </ol>
