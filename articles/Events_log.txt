@@ -26,6 +26,6 @@
             signed IN the ED.(insert asset)</li>
        <li> Matrices Completed - This section tracks if we had to complete any Notification Matrices on the transfer of Active Duty Members out of the
             hospital.
-       <li> Daily Checks - This section is a checklist of items that need to be function checked and signed off during the shift. It is seperated by 
-            day and night checks. (Insert asset)</li>
-       <li> Room Checks - This section is used to assign responsibility of the Room to a specific Technician.(Insert asset)</li>
+       <li> Daily/Room Checks - This section is a checklist of items that need to be function checked and signed off during the shift. The Room checks asign an 
+            individul to take care of a room. (Insert asset)</li>
+       
