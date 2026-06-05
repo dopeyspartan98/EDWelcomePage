@@ -1,7 +1,7 @@
-<p> "In the Events Log, there are certain things that are recorded based on the events
+<p> In the Events Log, there are certain things that are recorded based on the events
      that happen throughout a certain shift. Each of the descriptions below describe what to
      do and where to put certain information. A current form of the events log is always kept on 
-     the Teams channel under "Shared" so anyone who has access to the channel can modify it." </p>
+     the Teams channel under "Shared" so anyone who has access to the channel can modify it. </p>
      <ol>
        <li> Roster - This area should be filled out with the Day and Night shift personnel working to include the 4A's 
             and the 4N's pulling shifts at RAF Mildenhall.</li><br> 
