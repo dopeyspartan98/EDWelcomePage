@@ -40,5 +40,5 @@
 <img src="../assets/Matrices.png" width="800px" height="200px">
        <li> Daily/Room Checks - This section is a checklist of items that need to be function checked and signed off during the shift. The Room checks asign an 
             individul to take care of a room.</li><br>
-<img src="../assets/Daily_Checks.png" width="600px" height="200px">
+<img src="../assets/Daily_Checks.png" width="400px" height="200px">
        
