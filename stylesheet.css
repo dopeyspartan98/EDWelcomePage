@@ -113,6 +113,12 @@ h1 {
 #expand7:target {
 	display: block;
 }
+#expand8 {
+	display: none;
+}
+#expand8:target {
+	display: block;
+}
 
 
 
