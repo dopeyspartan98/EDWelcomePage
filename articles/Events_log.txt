@@ -4,7 +4,7 @@
      the Teams channel under "Shared" so anyone who has access to the channel can modify it." </p>
      <ol>
        <li> Roster - This area should be filled out with the Day and Night shift personnel working to include the 4A's 
-            and the 4N's pulling shifts at RAF Mildenhall. (Insert asset)</li>
+            and the 4N's pulling shifts at RAF Mildenhall. <iframe src="../assets/Roster.png" width="50px"></iframe></li><br>
        <li> Patient Statistics - This area is filled with particular statistics over a 24 hour period (two shifts). To get the relevent information,
             you may have to pull the "Discern Report" from Genesis. (Insert asset)</li>
        <li> Reportable Events - This area is for any changes that effect the ED directly or indirectly. It is also used for reminders,
