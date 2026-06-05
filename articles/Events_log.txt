@@ -17,7 +17,7 @@
 <img src="../assets/PRP.png" width="600px" height="200px">
        <li> Admissions - This section tracks any admissions that go to a different unit in the RAF Lakenheath Hospital. This section does NOT include
             transfers.</li><br>
-<img src="../assets/Admissions.png" width="800px" height="200px">
+<img src="../assets/Admissions.png" width="1000px" height="200px">
        <li> Ambulance Run/Rapid Response - This section tracks any 911 responses on base along with RRT and Code Blue Responses in the Hospital itself.</li><br>
 <img src="../assets/Ambulance_Run.png" width="800px" height="200px">
        <li> Transfers - This section tracks any transfers that are taken to an outside facility, whether they are transferred by the RAF Lakenheath ambulance 
@@ -25,20 +25,20 @@
 <img src="../assets/Transfers.png" width="800px" height="200px">
        <li> Flightline Response/IFE/GRE - This tracks our activity on the flightline in response to incidents on the flightline to include 
             In-Flight Emergencies or Ground Emergencies.</li><br>
-<img src="../assets/Flightline.png" width="800px" height="200px">
+<img src="../assets/Flightline.png" width="1000px" height="200px">
        <li> FLY - This tracks the patients we have in a 24 hour period that have a FLY classification.</li><br>
-<img src="../assets/Fly.png" width="800px" height="200px">
+<img src="../assets/Fly.png" width="1000px" height="200px">
        <li> AMA/LWOB - This section tracks the patients who have left before being seen by the doctor (LWOB), left against medical advice (AMA), or charts that 
                        were entered in error.</li><br>
 <img src="../assets/AMA.png" width="800px" height="200px">
        <li> Universal Protocol & Informed Consent - This section tracks any procedures that have required the signing of consent forms in the ED. Sometimes 
             the forms may be required by a different unit BEFORE the patients move, but this instance should be recorded as well as the forms were still
             signed IN the ED.</li><br>
-<img src="../assets/Universal_Protocol.png" width="800px" height="200px">
+<img src="../assets/Universal_Protocol.png" width="1000px" height="200px">
        <li> Matrices Completed - This section tracks if we had to complete any Notification Matrices on the transfer of Active Duty Members out of the
             hospital.</li><br>
 <img src="../assets/Matrices.png" width="800px" height="200px">
        <li> Daily/Room Checks - This section is a checklist of items that need to be function checked and signed off during the shift. The Room checks asign an 
             individul to take care of a room.</li><br>
-<img src="../assets/Daily_Checks.png" width="800px" height="200px">
+<img src="../assets/Daily_Checks.png" width="600px" height="200px">
        
