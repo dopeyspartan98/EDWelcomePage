@@ -19,6 +19,8 @@
        <li> Flightline Response/IFE/GRE - This tracks our activity on the flightline in response to incidents on the flightline to include 
             In-Flight Emergencies or Ground Emergencies. (Insert asset)</li>
        <li> FLY - This tracks the patients we have in a 24 hour period that have a FLY classification. (Insert asset)</li>
+       <li> AMA/LWOB - This section tracks the patients who have left before being seen by the doctor (LWOB), left against medical advice (AMA), or charts that 
+                       were entered in error. (Insert asset)</li>
        <li> Universal Protocol & Informed Consent - This section tracks any procedures that have required the signing of consent forms in the ED. Sometimes 
             the forms may be required by a different unit BEFORE the patients move, but this instance should be recorded as well as the forms were still
             signed IN the ED.(insert asset)</li>
