@@ -119,6 +119,42 @@ h1 {
 #expand8:target {
 	display: block;
 }
+#expand9{
+	display: none;
+}
+#expand9:target {
+	display: block;
+}
+#expand10: {
+	display: none;
+}
+#expand10:target {
+	display: block;
+}
+#expand11: {
+	display: none;
+}
+#expand11:target {
+	display: block;
+}
+#expand12: {
+	display: none;
+}
+#expand12: target {
+	display: block;
+}
+#expand13: {
+	display: none;
+}
+#expand13:target {
+	display: block;
+}
+#expand14: {
+	display: none;
+}
+#expand14:target {
+	display: block
+}
 
 
 
