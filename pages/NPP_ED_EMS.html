@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title> 48 HCOS ED </title>
+	<script src="../jquery-4.0.0.min.js"></script>
 	<link rel="stylesheet" href="../stylesheet.css">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,5 +16,25 @@
 				The ALS unit is based on RAF Lakenheath and will respond to all three bases while there is a BLS unit
 				on RAF Mildenhall embedded with the Fire Department.
 </p></div><br>
+<a class="btnContainer"href="#expand9">RAF Lakenheath</a>
+<a class="btnContainer"href="#expand10">RAF Mildenhall</a>
+<a class="btnContainer"href="#expand11">RAF Feltwell</a>
+	<section id="expand9">
+	<div class="btnInstr" id="RAF_Lakenheath">
+		</div>
+	</section>
+	<section id="expand10">
+	<div class="btnInstr" id="RAF_Mildenhall">
+		</div>
+	</section>
+	<section id="expand11">
+	<div class="btnInstr" id="RAF_Feltwell">
+		</div>
+</section>
+	<script>
+	$("#RAF_Lakenheath").load("../articles/RAF_Lakenheath.txt");
+	$("#RAF_Mildenhall").load("../articles/RAF_Mildenhall.txt");
+	$("#RAF_Feltwell").load("../articles/RAF_Feltwell.txt");
+	</script>
 </body>
 </html>
