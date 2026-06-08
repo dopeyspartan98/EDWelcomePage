@@ -173,7 +173,12 @@ h1 {
 #expand17:target {
 	display: block;
 }
-
+#expand18: {
+	display: none;
+}
+#expand18: {
+	display: block;
+}
 
 
 
