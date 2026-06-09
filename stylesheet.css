@@ -203,6 +203,12 @@ h1 {
 #expand22:target {
 	dispaly: block;
 }
+#expand23: {
+	display: none;
+}
+#expand23:target {
+	display: block;
+}
 
 
 
