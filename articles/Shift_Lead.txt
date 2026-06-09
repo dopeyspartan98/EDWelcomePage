@@ -1,8 +1,8 @@
 <script src="../jquery-4.0.0.min.js"></script>
 	<link rel="stylesheet" href="../stylesheet.css">
-<a class="btnContainer"href="expand">Events Log</a>
-<a class="btnContainer"href="expand">On-Call Rosters</a>
-<a class="btnContainer"href="expand">Matrix Notifications</a>
+<a class="btnContainer"href="expand21">Events Log</a>
+<a class="btnContainer"href="expand22">On-Call Rosters</a>
+<a class="btnContainer"href="expand23">Matrix Notifications</a>
 <section id="expand21">
 	<div class="btnInstr" id="Events_Log">
 		</div>
