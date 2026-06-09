@@ -1,0 +1,8 @@
+<ol>
+  <li> Go to <a href="https://aodms.af.mil/AirfieldDriving" target="_blank">Airfield Driving.</a> </li>
+  <li> Fill out your information and select CMA. </li>
+  <li> Go to "Licensing" and complete the CBT's named "myLearning Airfield Driving Training" and "RAF Lakenheath Airfield Driving". NOTE: The
+       tests will lock you out if you fail them. The first lockout is 24 hours and the next is 7 days. If you fail a 3rd time, then you will
+       need to have the Wing unlock it. </li>
+  <li> Schedule a daytime and nighttime driving session with the Airfield Driving POC (most likely Mr. Dan Sneath). </li>
+  <li> Complete a color vision test in Optometry. Walk in hours are Tuesdays 12:30 - 15:00. </li>
