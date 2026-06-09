@@ -179,6 +179,12 @@ h1 {
 #expand18:target {
 	display: block;
 }
+#expand 19 {
+	display: none;
+}
+#expand 19:target {
+	display: block;
+}
 
 
 
