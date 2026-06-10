@@ -1,17 +1,17 @@
 <script src="../jquery-4.0.0.min.js"></script>
 	<link rel="stylesheet" href="../stylesheet.css">
-<a class="btnContainer"href="expand21">Events Log</a>
-<a class="btnContainer"href="expand22">On-Call Rosters</a>
-<a class="btnContainer"href="expand23">Matrix Notifications</a>
-<section id="expand21">
+<a class="btnContainer"href="expand22">Events Log</a>
+<a class="btnContainer"href="expand23">On-Call Rosters</a>
+<a class="btnContainer"href="expand24">Matrix Notifications</a>
+<section id="expand22">
 	<div class="btnInstr" id="Events_Log">
 		</div>
 </section>
-<section id="expand22">
+<section id="expand23">
 	<div class="btnInstr" id="On_Call_Rosters">
 		</div>
 </section>
-<section id="expand23">
+<section id="expand24">
 	<div class="btnInstr" id="Matrix_Notifications">
 		</div>
 </section>
