@@ -215,6 +215,12 @@ h1 {
 #expand24:target {
 	display: block;
 }
+#expand25: {
+	display: none;
+}
+#expand25:target {
+	display: block;
+}
 
 
 
