@@ -1,5 +1,8 @@
-<script src="../jquery-4.0.0.min.js"></script>
+<head>
+	<script src="../jquery-4.0.0.min.js"></script>
 	<link rel="stylesheet" href="../stylesheet.css">
+</head>
+<body>
 <a class="btnContainer"href="expand22">Events Log</a>
 <a class="btnContainer"href="expand23">On-Call Rosters</a>
 <a class="btnContainer"href="expand24">Matrix Notifications</a>
@@ -20,4 +23,5 @@
 	$("#On_Call_Rosters").load("../articles/Test.txt");
 	$("#Matrix_Notifications").load("../articles/Test.txt");
 </script>
+</body>
 
