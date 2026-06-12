@@ -191,7 +191,12 @@ h1 {
 #expand20:target {
 	display: block
 }
-
+#expand21: {
+	display: none;
+}
+#expand21:target {
+	display: block;
+}
 
 
 
