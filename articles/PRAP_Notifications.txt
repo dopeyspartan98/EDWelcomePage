@@ -1,5 +1,5 @@
 <p> When a member checks in and they confirm that they are PRP or AUoF, it is required that a CMA puts in a "Stamp" in the Documentation section of Genesis. 
 The stamp, after it is placed, will specify whether the member requires a notification or not. If a notification is required, and they are part of the 
-48 Fighter Wing, then their squadron should be known from time of check-in. Consult the list 
+48 Fighter Wing, then their squadron should be known from time of check-in. Consult the <a href="https://militaryhealth.sharepoint-mil.us/sites/raflakenheath/SitePages/PRAP-Resources.aspx" target="_blank">list</a>
 and cross reference the numbers with the appropriate squadron. The notification details are in the "Stamp" document and should be read to whichever individual 
 answers the phone number dialed after confirmation of identity. </p>
