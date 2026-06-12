@@ -1,4 +1,4 @@
 <ol>
-  <li>Click <a href="../pages/Events_log.html">Here</a> in order to view Events Log instructions.</li>
+  <li>Click <a href="../assets/Events_log.docx">Here</a> in order to view Events Log instructions.</li>
   
 
