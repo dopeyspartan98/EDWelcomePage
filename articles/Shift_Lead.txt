@@ -1,4 +1,4 @@
 <ol>
-  <li>Click <a href="../articles/Events_log.html" target="_blank">Here</a> in order to view Events Log instructions.</li>
+  <li>Click <a href="../articles/Events_log.txt" target="_blank">Here</a> in order to view Events Log instructions.</li>
   
 
