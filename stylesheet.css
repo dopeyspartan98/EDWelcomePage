@@ -119,12 +119,6 @@ h1 {
 #expand8:target {
 	display: block;
 }
-#expand9 {
-	display: none;
-}
-#expand9:target {
-	display: block;
-}
 #expand10 {
 	display: none;
 }
