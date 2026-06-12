@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> 48 HCOS ED </title>
+	<script src="../jquery-4.0.0.min.js"></script>
+	<link rel="stylesheet" href="../stylesheet.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap" rel="stylesheet">
+</head>	
+<body>
 <p> In the Events Log, there are certain things that are recorded based on the events
      that happen throughout a certain shift. Each of the descriptions below describe what to
      do and where to put certain information. A current form of the events log is always kept on 
@@ -41,4 +52,6 @@
        <li> Daily/Room Checks - This section is a checklist of items that need to be function checked and signed off during the shift. The Room checks asign an 
             individul to take care of a room.</li><br>
 <img src="../assets/Daily_Checks.png" width="400px" height="200px">
+</body>
+</html>
        
